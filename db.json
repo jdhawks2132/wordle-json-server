@@ -1,16 +1,51 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+	"solutions": [
+		{ "id": 1, "word": "peers" },
+		{ "id": 2, "word": "leads" },
+		{ "id": 3, "word": "youth" },
+		{ "id": 4, "word": "drive" },
+		{ "id": 5, "word": "teens" },
+		{ "id": 6, "word": "habit" },
+		{ "id": 7, "word": "train" },
+		{ "id": 8, "word": "power" },
+		{ "id": 9, "word": "local" },
+		{ "id": 10, "word": "helps" },
+		{ "id": 11, "word": "teach" },
+		{ "id": 12, "word": "share" },
+		{ "id": 13, "word": "goals" },
+		{ "id": 14, "word": "adult" },
+		{ "id": 15, "word": "teams" },
+		{ "id": 16, "word": "happy" },
+		{ "id": 17, "word": "event" },
+		{ "id": 18, "word": "treat" },
+		{ "id": 19, "word": "heals" }
+	],
+	"letters": [
+		{ "id": 1, "key": "a" },
+		{ "id": 2, "key": "b" },
+		{ "id": 3, "key": "c" },
+		{ "id": 4, "key": "d" },
+		{ "id": 5, "key": "e" },
+		{ "id": 6, "key": "f" },
+		{ "id": 7, "key": "g" },
+		{ "id": 8, "key": "h" },
+		{ "id": 9, "key": "i" },
+		{ "id": 10, "key": "j" },
+		{ "id": 11, "key": "k" },
+		{ "id": 12, "key": "l" },
+		{ "id": 13, "key": "m" },
+		{ "id": 14, "key": "n" },
+		{ "id": 15, "key": "o" },
+		{ "id": 16, "key": "p" },
+		{ "id": 17, "key": "q" },
+		{ "id": 18, "key": "r" },
+		{ "id": 19, "key": "s" },
+		{ "id": 20, "key": "t" },
+		{ "id": 21, "key": "u" },
+		{ "id": 22, "key": "v" },
+		{ "id": 23, "key": "w" },
+		{ "id": 24, "key": "x" },
+		{ "id": 25, "key": "y" },
+		{ "id": 26, "key": "z" }
+	]
 }
